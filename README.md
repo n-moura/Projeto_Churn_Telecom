@@ -23,7 +23,7 @@ Criar um Modelo de Classificação que possa prever se um cliente irá ou não c
 
 **Para uma melhor visualização o projeto pode ser acessado no link abaixo:**
 
-https://nbviewer.jupyter.org/github/n-moura/Projeto_Churn_Telecom/blob/main/main.ipynb
+https://nbviewer.jupyter.org/github/n-moura/Projeto_Churn_Telecom/blob/main/customer_churn.ipynb  
 
 
 
